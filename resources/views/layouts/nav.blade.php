@@ -44,7 +44,7 @@
                             </div>
                             <div class="brand-logo logo-sm-center">
                                 <a href="index.html">
-                                    <img src="../assets/images/layout-2/logo/logo.png" class="img-fluid  "
+                                    <img src="{{url('assets/images/lifor-logo.jpg')}}" class="img-fluid  "
                                         alt="logo">
                                 </a>
                             </div>

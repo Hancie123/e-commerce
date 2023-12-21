@@ -1,5 +1,5 @@
-    <link rel="icon" href="../assets/images/favicon/favicon.png" type="image/x-icon">
-    <link rel="shortcut icon" href="../assets/images/favicon/favicon.png" type="image/x-icon">
+    <link rel="icon" href="../assets/images/logo.jpeg" type="image/x-icon">
+    <link rel="shortcut icon" href="../assets/images/logo.jpeg" type="image/x-icon">
     <link href="https://fonts.googleapis.com/css?family=PT+Sans:400,700&display=swap" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css?family=Raleway&display=swap" rel="stylesheet">
     <link rel="stylesheet" type="text/css" href="{{ url('assets/css/font-awesome.css') }}">
